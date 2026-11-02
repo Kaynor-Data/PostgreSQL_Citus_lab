@@ -223,7 +223,7 @@ PostgreSQL_Citus_lab/
 
 ## 10. Suivi de progression
 
-- [ ] Choisir le plan de déploiement.
+- [x] Choisir le plan de déploiement.
 - [ ] Préparer l'environnement.
 - [ ] Installer PostgreSQL.
 - [ ] Installer Citus.
