@@ -21,6 +21,7 @@ installation de PostgreSQL et de Citus.
 ---
 
 # **plan**
+
 ## 1. Environnement : 
 
 - Docker (sur Windows)
