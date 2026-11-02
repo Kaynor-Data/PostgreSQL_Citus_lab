@@ -51,6 +51,7 @@ Plusieurs configurations sont envisagées pour réaliser ce laboratoire.
 
 - Docker sur Windows.
 - Ubuntu Server (Linux).
+- VMWare
 - PostgreSQL installé directement sur une machine, avec DBeaver comme client d'administration.
 
 ### 4.2 Architecture Citus
